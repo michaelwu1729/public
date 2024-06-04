@@ -1,0 +1,67 @@
+2024 June 3
+
+On the evening of 24 Apr 2024, I was notified by my employer that my role was eliminated. I had a 2 month grace period before my termination, which allowed me limited access to internal resources to search for a new role internally, should I choose to do so.
+
+Fortunately I was able to find a new role internally and will resume working on 10 June. But I wanted to talk about my journey to this point.
+
+This will largely just be a thought stream of how I spent my 6 weeks pseudo-unemployed: what I did to move forward (both in terms of concrete actions and how I pushed through psychological challenges).
+
+1. Initial reactions
+The fact I was unemployed definitely didn't sink in for a few days. At first I didn't feel devastated, but I think just in shock in my own way. Keep in mind that my employer had gone through several waves of cuts in the 18 months prior, so I think I had already mentally prepared myself 
+for the possibility that my role may be next, and there really wasn't anything I could do about it; I think this definitely helped jumpstart me to move forward. I just tried to act as much as I could, as early as I could before any panic or anxiety could stop me from pushing through.
+Within 48 hours of my notice, I was able to complete the following:
+- Talking to my management chain about next steps
+- Be in a consultation for internal transfers
+
+Fortunately I had a lot of things going for me in terms of finding a new role:
+- I was committed to spending my notice period exclusively looking internally. This helped narrow my approach: I didn't need to prep for technical interviews, update my resume, etc. yet
+- I was performing well in my previous role. Hiring managers have access to all my work and performance reviews, so I know I can bring a strong foot forward as a candidate.
+- I knew where I wanted to go next: With so many open roles, it would have definitely been overwhelming trying to determine interest going through each one, one at a time. 
+- Being located in the South Bay, I had a high likelihood of finding a role fit without needing to worry about re-locating and any potential ramifications of that. 
+- I didn't have too many extra financial responsibilities: kids, rent, etc. I know others in my position that had some combination of these, and I couldn't imagine the extra pressure or urgency they must be under to find a new position to continue providing for themselves or others.
+
+In particular on point 3, I know my employer was heavily leaning into AI endeavors; but since I didn't want to specifically work in a direct ML training or modeling role, I knew I could work on the infrastructure supporting and powering the AI objectives. Sort of cynically,
+not only did I feel this would be a good fit, but I also knew that the emphasis on AI meant that this direction would also lower the chance of my next role also being eliminated later on.
+
+I'm probably not allowed to go too much into my experience with the application process, but know that 90% of it was just waiting to initially hear back from teams. Being mostly in the dark definitely didn't help ease the uncertainty of my situation.
+
+2. How I spent my time
+Once the "I'm basically unemployed" feeling started sinking in, I definitely didn't have the healthiest first few weeks, again just kind of avoiding the panic and anxiety of not knowing what I'm gonna do next. Lots of irregular sleep schedules, binge-watching TV. I was still eating healthy 
+enough and exercising, but the routine I was used to went completely out the window. 
+
+Even beyond the first few weeks, I definitely wasn't productive. I couldn't exactly go on vacation since I needed to be available for potential interviews, but I also wasn't working. I don't know if It felt trapped per-se, but I was definitely unfulfilled. There was a part of my soul that
+stayed empty these past few weeks. It definitely didn't help that I was basically at home most of the day. Even when I was working, I went to the office everyday, since psychologically I needed the hard separation between my work and home life to both work and unwind effectively. 
+
+3. Psychologically handling everything
+Even though I wasn't laid off for any performance reasons (as assured by my management chain, whom were just as surprised to see their team impacted as I was), I definitely started to punish myself a little for no longer having a job. The wonky sleep schedule, keeping myself at home. I think
+there was an anxiety that was spewing some nonsense about how this was somehow [at least in part] my fault, but in reality I just didn't really know how else to deal with the fact that my livelihood was just taken away for reasons that were completely out of my control.
+
+Having lived with my parents as well while I was working, my mom also left the country to visit family shortly before my layoff, so it really was just my dad and myself to support each other while she was gone. 
+
+I also didn't tell anyone except my family about my layoff; since I intended to look internally first for my next role anyway, I hoped I could just quietly transition into my next role without causing too much of a fuss outside. Even though I didn't really talk much about work with others
+to being with, it definitely wasn't fun kind of hiding it from my friends-- sometimes it felt like a scarlet letter was branded on a hidden part of my skin, like some sort of shame that I had to carry completely alone. 
+
+I couldn't be too sure where that sense of shame comes from. Maybe part of it was just a sense of being left behind-- as all my friends and peers kept working and just kind of moving forward with their lives, I just... wasn't. Maybe a part of me didn't want people to look down on or pity my
+situation. I also think the anxiety of having to tell people I was let go, like it was somehow my fault, stated to become overwhelming the longer I kept it to myself. But somehow, even in hindsight and knowing what I put myself through, keeping this information contained felt like the right
+decision. Call me a tad stubborn, maybe.
+
+So yeah, with the combination of negative reinforcement, losing my old sense of routine [and fulfillment], and sort of isolating myself emotionally from my friends, there were definitely ways I wish I could have handled myself better. 
+
+4. Eventually developing a routine
+Once I sort of got my sh*t back together, I was able to re-regularize a daily routine (which overall wasn't much, but it was better than what I was doing before for sure). And once I start working again, I will most certainly be throwing this routine away for my pre-layoff one.
+Wake up, light meal, workout [noon-ish], eat, chill/apply for jobs, chores, etc. for the rest of the day.
+
+When I was working I used to work out [5-6 days a week] between the end of my workday and dinner [so usually 5-6:30pm] out of convenience. I had to shift that around since I had to move to a public gym to avoid the busiest times of the day. At first it sort of alternated between midday and
+very late at night before stabilizing to almost always midday.
+
+I think this incentive also pushed me to start sleeping [and waking up] earlier so I could maximize my chance of getting my exercise in while it wasn't busy at the gym. 
+
+But anyway, I definitely won't be continuing this once I resume working, since 1) my skin and hair get so oily showering midday vs in the evening, 2) I don't work productively after working out, and 3) I definitely prefer working out as a way to unwind after a long day of work, rather than 
+a way to start my day.
+
+Even though this section was largely just me talking about my old lifestyle and how I began to adjust it, I think me kind of figuring these things out was my way of me coming to terms with my new situation and doing with it what I could (which really wasn't a lot). 
+
+Conclusion and takeaways
+Everyone's experience with being laid off and moving forward will be different. I just wanted to share my story in hopes that someone will read it and know that they're not alone, and that there's no one right way to handle it. It's all just navigating a minefield of uncertainty and anxiety
+and hoping you come out the other end with most of your limbs intact. If you're reading this having just experienced a layoff, me saying everything will be ok would be incredibly disingenuous, because at the end of the day I got lucky finding a fitting role as quickly as I did. But I hope you 
+have someone in your corner that will support you so that you can get lucky, too.
